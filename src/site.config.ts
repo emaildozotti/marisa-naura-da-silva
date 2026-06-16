@@ -16,7 +16,8 @@ export const SITE = {
     'Este acompanhamento não substitui tratamento médico ou psiquiátrico. Em situação de crise, surto ou risco à vida, procure o hospital mais próximo ou ligue para o CVV (188).',
   waLink:
     'https://wa.me/5549998314646?text=Ol%C3%A1%20Marisa%21%20Vi%20sua%20p%C3%A1gina%20e%20quero%20agendar%20minha%20sess%C3%A3o.',
-  videoUrl: 'https://www.youtube.com/embed/XXXXXXXXXXX',
+  videoUrl: 'https://www.youtube.com/embed/cn_gXwcb1QQ',
   fotoHero: '/foto-hero.jpg',
   fotoAbout: '/foto-about.jpg',
+  fotoVideo: '/foto-video.jpg',
 }
