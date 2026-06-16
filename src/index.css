@@ -17,6 +17,7 @@
   --color-bg-light:     #FAF6EE;
   --color-text-main:    #2E2A22;
   --color-off-white:    #FAF6EE;
+  --color-accent-on-dark: color-mix(in srgb, var(--color-secondary) 60%, var(--color-off-white));
 }
 
 /* ════════════════════════════════════════════════════════════════════
